@@ -47,9 +47,6 @@ Analysis outputs are written to:
 
 The analysis was performed in R using Seurat and related packages.
 
-Session information is provided in:
-
-`sessionInfo.txt`
 
 ## Reproducibility note
 
